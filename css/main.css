@@ -1,0 +1,102 @@
+*{
+  border: 1px dashed black;
+}
+#cabecera{
+  width: 20000px;
+  height: 60px;
+  border: 1px red solid;
+  /*display: inline-block;*/
+  margin-left: auto;
+  margin-right: auto;
+  /*float: left;*/
+  /*border-bottom: right;*/
+  /*text-align: right;*/
+  display: inline-block;
+  font-family: sans-serif;
+}
+.c1{
+display: inline-block;
+float: left;
+}
+.logo1{
+  width: 80px;
+  display: inline-block;
+  /*float: left;*/
+}
+.c2{
+  display: inline-block;
+  float: left;
+}
+.logo2{
+max-width: 80px;
+  display: inline-block;
+  /*float: left;*/
+}
+.c3{
+  display: inline-block;
+  float: left;
+}
+.logo3{
+max-width: 50px;
+  display: inline-block;
+  /*float: left;*/
+}
+.c4{
+  display: inline-block;
+  float: left;
+}
+.logo4{
+max-width: 50px;
+  display: inline-block;
+  /*float: left;*/
+}
+.c5{
+  display: inline-block;
+  float: left;
+}
+.logo5{
+max-width: 80px;
+  display: inline-block;
+  /*float: left;*/
+}
+.c6{
+  display: inline-block;
+  float: left;
+}
+.logo6{
+max-width: 80px;
+  display: inline-block;
+  /*float: left;*/
+}
+#contenedor-mommy{
+  width: 100px;
+  margin: 20px blue;
+  align-items: center;
+}
+.caja-juniorA{
+width: 80px;
+margin: 2px brown;
+align-self: auto;
+}
+.caja-logog{
+  width: 80px pink;
+}
+.caja-buscador{
+  width: 80px pink;
+}
+#logg{
+  max-width: 200px;
+}
+h1{
+  font-family: sans-serif;
+  border-color: #A4A4A4;
+}
+.contenedor-juniorB{
+  margin: 1px magenta;
+  width: 50px;
+}
+.contenedor-de-pagina{
+  margin: 1px;
+  border-color: yellow;
+  width: 10px;
+}
